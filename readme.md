@@ -1,6 +1,6 @@
 # react-countries-details
 
-A simple react component that provides country details information, including flags, calling codes, postal codes and many more.
+A tiny fully customizable react hook which gives you full details of countries with their flags, emojis, country calling codes, postal codes and many more...
 
 ## How to use it?
 
