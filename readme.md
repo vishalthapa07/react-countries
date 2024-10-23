@@ -1,6 +1,6 @@
 # react-countries-details
 
-a simple React component that provides country information, including flags, calling codes, and postal codes. It makes adding international features to your app quick and easy.
+A simple react component that provides country information, including flags, calling codes, and postal codes. It makes adding international features to your app quick and easy.
 
 ## How to use it?
 
