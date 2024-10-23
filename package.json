@@ -1,8 +1,8 @@
 {
   "name": "react-countries-details",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "type": "module",
-  "description": "site link: https://www.npmjs.com/package/react-countries-details",
+  "description": "npm helps to fetch the country details",
   "main": "dist/index.js",
   "scripts": {
     "build:dev": "rollup -c --environment NODE_ENV:development",
