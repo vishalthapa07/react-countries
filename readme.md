@@ -1,4 +1,4 @@
-# react-countries
+# react-countries-details
 
 A tiny fully customizable react hook which gives you full list of countries with their flags, emojis, country calling codes, postal codes and many more...
 
@@ -10,10 +10,10 @@ You can use the project in this way:
 
 ```bash
 # with npm
-npm install react-countries
+npm install react-countries-details
 
 # with yarn
-yarn add react-countries
+yarn add react-countries-details
 ```
 
 ### Usage
@@ -21,7 +21,7 @@ yarn add react-countries
 - Import the package in your app:
 
 ```js
-import { useCountry } from "react-countries";
+import { useCountry } from "react-countries-details";
 ```
 
 - Get the country information from the hook:
@@ -29,3 +29,7 @@ import { useCountry } from "react-countries";
 ```js
 const {loading, error, country} = useCountry('Republic Of India')'
 ```
+
+### Author
+
+- [Mr. Thapa, Vishal](https://vishalthapa.netlify.app/)
