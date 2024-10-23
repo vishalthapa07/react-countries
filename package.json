@@ -1,6 +1,6 @@
 {
   "name": "react-countries-details",
-  "version": "1.4.5",
+  "version": "1.4.6",
   "type": "module",
   "description": "npm helps to fetch the country details",
   "main": "dist/index.js",
@@ -10,7 +10,6 @@
   },
   "keywords": [
     "react",
-    "react-countries-details",
     "countries",
     "hooks",
     "npm",
@@ -22,7 +21,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vishalthapa07/react-countries.git"
+    "url": "git+https://github.com/vishalthapa07/react-countries.git"
   },
   "bugs": {
     "url": "https://github.com/vishalthapa07/react-countries.git/issues"
