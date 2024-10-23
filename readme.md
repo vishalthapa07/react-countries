@@ -1,6 +1,6 @@
 # react-countries
 
-A ReactJS hook to get the country information.
+A tiny fully customizable react hook which gives you full list of countries with their flags, emojis, country calling codes, postal codes and many more...
 
 ## How to use it?
 
