@@ -1,6 +1,6 @@
 {
   "name": "react-countries-details",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "type": "module",
   "description": "npm helps to fetch the country details",
   "main": "dist/index.js",
@@ -10,14 +10,13 @@
   },
   "keywords": [
     "react",
+    "react-countries-details",
     "countries",
     "hooks",
     "npm",
+    "package",
     "country",
-    "details",
-    "next",
-    "open",
-    "source"
+    "country-list"
   ],
   "author": "Vishal Thapa",
   "license": "ISC",
